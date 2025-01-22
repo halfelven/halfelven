@@ -8,7 +8,7 @@ mix of languages.
 
 I particularly like strongly typed, compiled, easily cross-platform languages,
 especially those with well integrated unit testing frameworks (C# is probably my strongest
-👍🏻.) In the future I'd quite like to work on a project where I could learn
+👍🏻). In the future I'd quite like to work on a project where I could learn
 <img src=images/rust-logo-64x64.png height="15" title="Rust"> or
 <img src=images/Java.png height="15" title="Java"> (I actually lived through the
 90s and never learned Java 🤷🏻‍♂️).
