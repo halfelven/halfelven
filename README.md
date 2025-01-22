@@ -4,11 +4,7 @@ I'm a Mac, Windows and Linux systems administrator working at the University of
 Oxford 👨🏻‍🎓. Over the years I've written a variety of small to moderate-sized projects in a
 mix of languages.
 
-<img src=images/full_colored_dark.svg height="30" alt="Bash">
-<img src=images/python.svg height="30" alt="Python">
-<img src=images/ISO_C%2B%2B_Logo.svg height="30" alt="C++">
-<img src=images/Logo_C_sharp.svg height="30" alt="C#">
-<img src=images/F_Sharp_logo.svg height="30" alt="F#">
+<img src=images/full_colored_dark.svg height="30" alt="Bash"> <img src=images/python.svg height="30" alt="Python"> <img src=images/ISO_C%2B%2B_Logo.svg height="30" alt="C++"> <img src=images/Logo_C_sharp.svg height="30" alt="C#"> <img src=images/F_Sharp_logo.svg height="30" alt="F#">
 
 I particularly like strongly typed, compiled, easily cross-platform languages,
 especially those with well integrated unit testing frameworks, C# is probably my strongest
