@@ -7,8 +7,8 @@ mix of languages.
 <img src=images/full_colored_dark.svg height="30" alt="Bash"> <img src=images/python.svg height="30" alt="Python"> <img src=images/ISO_C%2B%2B_Logo.svg height="30" alt="C++"> <img src=images/Logo_C_sharp.svg height="30" alt="C#"> <img src=images/F_Sharp_logo.svg height="30" alt="F#">
 
 I particularly like strongly typed, compiled, easily cross-platform languages,
-especially those with well integrated unit testing frameworks, C# is probably my strongest
-👍🏻. In the future I'd quite like to work on a project where I could learn
+especially those with well integrated unit testing frameworks (C# is probably my strongest
+👍🏻.) In the future I'd quite like to work on a project where I could learn
 <img src=images/rust-logo-64x64.png height="15" title="Rust"> or
 <img src=images/Java.png height="15" title="Java"> (I actually lived through the
 90s and never learned Java 🤷🏻‍♂️).
