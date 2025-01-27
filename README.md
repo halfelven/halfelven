@@ -4,14 +4,12 @@ I'm a Mac, Windows and Linux systems administrator working at the University of
 Oxford 👨🏻‍🎓. Over the years I've written a variety of small to moderate-sized projects in a
 mix of languages.
 
-<img src=images/full_colored_dark.svg height="30" alt="Bash"> <img src=images/ps_black_128.svg height="30" alt="Powershell"> <img src=images/python.svg height="30" alt="Python"> <img src=images/ISO_C%2B%2B_Logo.svg height="30" alt="C++"> <img src=images/Logo_C_sharp.svg height="30" alt="C#"> <img src=images/F_Sharp_logo.svg height="30" alt="F#"> <img src=images/html5.svg height="30" alt="HTML5">
+<img src=images/full_colored_dark.svg height="30" alt="Bash"> <img src=images/ps_black_128.svg height="30" alt="Powershell"> <img src=images/python.svg height="30" alt="Python"> <img src=images/ISO_C%2B%2B_Logo.svg height="30" alt="C++"> <img src=images/Logo_C_sharp.svg height="30" alt="C#"> <img src=images/F_Sharp_logo.svg height="30" alt="F#"> <img src=images/Java.png height="30" alt="Java"> <img src=images/html5.svg height="30" alt="HTML5">
 
 I particularly like strongly typed, compiled, memory safe, easily cross-platform languages,
 especially those with well integrated unit testing frameworks (C# is probably my strongest
 👍🏻). In the future I'd quite like to work on a project where I could learn
-<img src=images/rust-logo-64x64.png height="15" title="Rust"> or
-<img src=images/Java.png height="15" title="Java"> (I actually lived through the
-90s and never learned Java 🤷🏻‍♂️).
+<img src=images/rust-logo-64x64.png height="15" title="Rust">.
 
 ⚡ Fun fact: I have a real, slightly pointy, elven-style ear (but just the one)
 
