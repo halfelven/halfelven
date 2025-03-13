@@ -1,4 +1,4 @@
-## Hi, I'm Duncan 👨🏻‍💻
+## Hi, I'm Duncan <img src=images/memoji.png height="20" alt="memoji">
 
 I'm a Mac, Windows and Linux systems administrator working at the University of Oxford 👨🏻‍🎓.
 Over the years I've written a variety of small to moderate-sized projects in a mix of languages.
