@@ -1,14 +1,12 @@
 ## Hi, I'm Duncan <img src=images/memoji.png height="20" alt="memoji">
 
-I'm a Mac, Windows and Linux systems administrator working at the University of Oxford 👨🏻‍🎓.
-Over the years I've written a variety of small to moderate-sized projects in a mix of languages.
+I'm a Linux, Mac and Windows systems administrator working at the University of Oxford 👨🏻‍🎓.
+Over the years I've written and maintained a variety of small to moderate-sized projects in a mix of languages.
 
-<img src=images/full_colored_dark.svg height="30" alt="Bash"> <img src=images/ps_black_128.svg height="30" alt="Powershell"> <img src=images/python.svg height="30" alt="Python"> <img src=images/ISO_C%2B%2B_Logo.svg height="30" alt="C++"> <img src=images/Logo_C_sharp.svg height="30" alt="C#"> <img src=images/F_Sharp_logo.svg height="30" alt="F#"> <img src=images/Java.png height="30" alt="Java">
+<img src=images/full_colored_dark.svg height="30" alt="Bash"> <img src=images/ps_black_128.svg height="30" alt="Powershell"> <img src=images/python.svg height="30" alt="Python"> <img src=images/php-logo.svg height="30" alt="PHP"> <img src=images/ISO_C%2B%2B_Logo.svg height="30" alt="C++"> <img src=images/Logo_C_sharp.svg height="30" alt="C#"> <img src=images/F_Sharp_logo.svg height="30" alt="F#"> <img src=images/Java.png height="30" alt="Java"> <img src=images/mariadb.svg height="30" alt="MariaDB">
 
 C# and Java are probably my favourites ❤️, as I particularly like strong typing, memory
-safety, platform independence and quality unit testing frameworks. I'd be intrigued to learn
-<img src=images/rust-logo-64x64.png height="15" title="Rust">,
-if the right systems-level project came along and C++ couldn't handle it.
+safety, platform independence and quality unit testing frameworks.
 
 ⚡ Fun fact: I have a real, slightly pointy, elven-style ear (but just the one)
 
